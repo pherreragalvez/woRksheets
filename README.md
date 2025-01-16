@@ -6,6 +6,7 @@ R Basics for Data Analysis
 ## Basic operations and statistic analysis
 
 ## Importing/exporting DDBB 
+* **Datos**
 * package (readr).
   * Importing and exporting csv.
   * Part of tidyverse.
@@ -15,6 +16,8 @@ R Basics for Data Analysis
   * More complex.
   * Allows for more customization.
  * package (haven).
+
+
 
  * 
  * 
