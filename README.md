@@ -64,9 +64,10 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 ## Markdown
 ## Shiny
 
-## Importing data bases online
+## Online data sources
 ### Macroeconomic indicators
 ### Currencies
+### Stock prices
 
 ## Web scrapping
 ## Geographic data, maps and other visualisations
