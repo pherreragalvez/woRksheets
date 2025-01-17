@@ -10,9 +10,12 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 # Contents
 
 ## Basic operations and statistic analysis
+* Vectors
+* Vectors to data frames
+* Matrixes
+* Functions
 
-## Importing/exporting DDBB 
-* **Datos**
+## Importing/exporting DDBB
 * package (readr).
   * Importing and exporting csv.
   * Part of tidyverse.
@@ -21,20 +24,36 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
   * Better for bigger volumes of data.
   * More complex.
   * Allows for more customization.
- * package (haven).
+* package (haven).
+  * Importing and exporting dta.
+* package (-).
+  * Importing and exporting xls.
+* package (-).
+  * Importing and exporting xlsx.
+### Other notes
+* Organise by data format: xlsx, xls, csv, data.
+* Exporting different tables in different excel sheets of the same excel archive.
+* Data exploration
 
+## Joins
 
+## Data manipulation
+### Dplyr
+### Dates
 
- * 
- * 
-  * 
-
-## Dplyr
 ## Descriptive Statistics
+* Creating tables
+ * Double entry tables
+ * Statistic tables
+
 * Exporting tables
 
 ## Visualisations (rbase and ggplot2)
 ## Statistic Tests
+### Normality
+### T tests
+####
+
 ## Regressions
 ### Linear models
 ### Other models
