@@ -30,8 +30,23 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
   * 
 
 ## Dplyr
+## Descriptive Statistics
+* Exporting tables
+
+## Visualisations (rbase and ggplot2)
+## Statistic Tests
+## Regressions
+### Linear models
+### Other models
+
 ## 
 ## 
 ## 
+## 
+## 
+## 
+## 
+## 
+
 
 
