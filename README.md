@@ -55,22 +55,28 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 ## Statistic Tests
 ### Normality
 ### T tests
-####
+### Anova
+### Chi2
+### Fisher
 
 ## Regressions
 ### Linear models
 ### Other models
 
 ## Markdown
+
 ## Shiny
 
 ## Online data sources
 ### Macroeconomic indicators
-### Currencies
-### Stock prices
+### Demographic and social indicators
+### Environment indicators
+### Currencies and stock prices
 
 ## Web scrapping
+
 ## Geographic data, maps and other visualisations
+
 ## 
 ## 
 ## 
