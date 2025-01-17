@@ -9,10 +9,12 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 
 # Contents
 
-## Basic operations and statistic analysis
+## Basic operations
 * Vectors
 * Vectors to data frames
 * Matrixes
+* Matrixes to data frames
+* Loops
 * Functions
 
 ## Importing/exporting DDBB
@@ -43,12 +45,13 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 
 ## Descriptive Statistics
 * Creating tables
- * Double entry tables
- * Statistic tables
+ * Frequency tables
+ * Descriptive statistics
 
 * Exporting tables
 
 ## Visualisations (rbase and ggplot2)
+
 ## Statistic Tests
 ### Normality
 ### T tests
@@ -58,11 +61,15 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 ### Linear models
 ### Other models
 
-## 
-## 
-## 
-## 
-## 
+## Markdown
+## Shiny
+
+## Importing data bases online
+### Macroeconomic indicators
+### Currencies
+
+## Web scrapping
+## Geographic data, maps and other visualisations
 ## 
 ## 
 ## 
