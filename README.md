@@ -1,5 +1,6 @@
 # woRksheets
-R Basics for Data Analysis
+## R guide for Data Analysis.
+### From the most basic to more complex tasks.
 
 # Sources
 
