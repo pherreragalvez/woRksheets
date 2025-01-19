@@ -69,10 +69,16 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 ## Shiny
 
 ## Online data sources
+* Potential sources:
+ * WDI World Bank:
+  * https://cran.r-project.org/web/packages/WDI/WDI.pdf
+  * https://github.com/vincentarelbundock/WDI?tab=readme-ov-file
+
 ### Macroeconomic indicators
 ### Demographic and social indicators
 ### Environment indicators
 ### Currencies and stock prices
+
 
 ## Web scrapping
 
