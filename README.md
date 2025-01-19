@@ -76,7 +76,8 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
   * WDI World Bank:
     * https://cran.r-project.org/web/packages/WDI/WDI.pdf
     * https://github.com/vincentarelbundock/WDI?tab=readme-ov-file
-
+  * Consulta chat GPT
+    * https://chatgpt.com/c/678d8e67-0024-8000-8984-00daf32ee630
 ### Macroeconomic indicators
 ### Demographic and social indicators
 ### Environment indicators
