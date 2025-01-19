@@ -4,7 +4,7 @@
 
 # Sources
 * Hola
-*  Hola
+   * Hola
 
 
 file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%203/Sesi%C3%B3n%203%20-%20Clase%201%20de%20R%20(html).html
