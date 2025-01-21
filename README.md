@@ -65,6 +65,7 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 * sample(x, size, replace = FALSE, prob = NULL)
 ### Normality
 ### T tests
+Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-test-in-r-calculation-and-reporting/
 ### Anova
 ### Chi2
 ### Fisher
