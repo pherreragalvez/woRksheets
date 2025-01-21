@@ -36,10 +36,11 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
   * Allows for more customization.
 * package (haven).
   * Importing and exporting dta.
-* package (-).
-  * Importing and exporting xls.
-* package (-).
+* package (openxlsx).
   * Importing and exporting xlsx.
+* package (readxl).
+  * Importing xls and xlsx.
+
 ### Other notes
 * Organise by data format: xlsx, xls, csv, data.
 * Exporting different tables in different excel sheets of the same excel archive.
