@@ -25,9 +25,7 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 * Loops
 * Functions
 
-## <a href="https://rpubs.com/pherreragalvez/1271494" target="_blank">Visita este sitio</a>
-
-
+## <a href="https://rpubs.com/pherreragalvez/1271494" target="_blank">Importing/exporting data bases</a>
 Contents:
 1. Csv data bases - readr
 2. Dta data bases (stata) - haven
