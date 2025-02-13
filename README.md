@@ -32,12 +32,6 @@ https://rpubs.com/pherreragalvez/1271494
 3. Excel data bases - openxlsx (xlsx only), readxl (importing only)
 4. Exporting tables and plots
 
-
-### Other notes
-* Organise by data format: xlsx, xls, csv, data.
-* Exporting different tables in different excel sheets of the same excel archive.
-* Data exploration
-
 ## Joins
 
 ## Data manipulation
