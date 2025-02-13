@@ -26,7 +26,8 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 * Functions
 
 ## Importing/exporting DDBB
-<a href="[https://www.ejemplo.com](https://rpubs.com/pherreragalvez/1271494)" target="_blank">Click here.</a>
+<a href="https://rpubs.com/pherreragalvez/1271494" target="_blank">Visita este sitio</a>
+
 
 Contents:
 1. Csv data bases - readr
