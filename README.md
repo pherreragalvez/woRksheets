@@ -6,7 +6,7 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%203/S
 file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%204/Sesi%C3%B3n%204%20-%20Clase%202%20de%20R%20(html).html
 file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/Sesi%C3%B3n%205%20-%20Clase%203%20de%20R%20(html).html
 
-## Basic operations
+## 1. Basic operations
 * Vectors
 * Vectors to data frames
 * Matrixes
@@ -14,14 +14,14 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 * Loops
 * Functions
 
-## <a href="https://rpubs.com/pherreragalvez/1271494" target="_blank">Importing/exporting data bases</a>
+## <a href="https://rpubs.com/pherreragalvez/1271494" target="_blank">2. Importing/exporting data bases</a>
 **Contents:**
 1. Csv data bases - readr
 2. Dta data bases (stata) - haven
 3. Excel data bases - openxlsx (xlsx only), readxl (importing only)
 4. Exporting tables and plots
 
-## Data manipulation
+## 3. Data manipulation
 **Contents:**
 1. Dplyr
 * rename
@@ -33,14 +33,14 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 2. ifelse (no dplyr)
 3. Dates
 
-## Descriptive Statistics
+## 4. Descriptive Statistics
 **Contents:**
 1. Creating tables
 * Frequency tables
 * Descriptive statistics
 2. Exporting tables
 
-## Statistic Tests
+## 5. Statistic Tests
 **Contents:**
 1. Random sampling
 * sample(x, size, replace = FALSE, prob = NULL)
@@ -51,7 +51,7 @@ Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-tes
 5. Chi2
 6. Fisher
 
-## Regressions
+## 6. Regressions
 **Contents:**
 1. Linear models
 2. Other models
