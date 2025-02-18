@@ -7,12 +7,13 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%204/S
 file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/Sesi%C3%B3n%205%20-%20Clase%203%20de%20R%20(html).html
 
 ## 1. Basic operations
-* Vectors
-* Vectors to data frames
-* Matrixes
-* Matrixes to data frames
-* Loops
-* Functions
+**Contents:**
+1. Vectors
+2. Vectors to data frames
+3. Matrixes
+4. Matrixes to data frames
+5. Loops
+6. Functions
 
 ## <a href="https://rpubs.com/pherreragalvez/1271494" target="_blank">2. Importing/exporting data bases</a>
 **Contents:**
