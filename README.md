@@ -23,8 +23,6 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 3. Excel data bases - openxlsx (xlsx only), readxl (importing only)
 4. Exporting tables and plots
 
-## Joins
-
 ## Data manipulation
 ### Dplyr
 ### Dates
@@ -33,12 +31,7 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 * Creating tables
  * Frequency tables
  * Descriptive statistics
-
-* Exporting tables
-
-## Visualisations (rbase and ggplot2)
-
-https://r-coder.com/grafico-correlacion-r/
+ * Exporting tables
 
 ## Statistic Tests
 ### Include extracting a random sample
@@ -53,6 +46,15 @@ Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-tes
 ## Regressions
 ### Linear models
 ### Other models
+
+# Upcoming topics:
+
+## Joins
+
+## Association rule
+
+## Visualisations (rbase and ggplot2)
+https://r-coder.com/grafico-correlacion-r/
 
 ## Markdown
 
@@ -70,14 +72,6 @@ Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-tes
 ### Environment indicators
 ### Currencies and stock prices
 
-
 ## Web scrapping
 
 ## Geographic data, maps and other visualisations
-
-## 
-## 
-## 
-
-
-
