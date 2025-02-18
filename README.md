@@ -22,33 +22,42 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/S
 4. Exporting tables and plots
 
 ## Data manipulation
-### Dplyr
-### Dates
+**Contents:**
+1. Dplyr
+* rename
+* distinct
+* arrange
+* select
+* filter
+* mutate
+2. ifelse (no dplyr)
+3. Dates
 
 ## Descriptive Statistics
 **Contents:**
-
-* Creating tables
- * Frequency tables
- * Descriptive statistics
-* Exporting tables
+1. Creating tables
+* Frequency tables
+* Descriptive statistics
+2. Exporting tables
 
 ## Statistic Tests
-### Include extracting a random sample
+**Contents:**
+1. Random sampling
 * sample(x, size, replace = FALSE, prob = NULL)
-### Normality
-### T tests
+2. Normality
+3. T tests
 Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-test-in-r-calculation-and-reporting/
-### Anova
-### Chi2
-### Fisher
+4. Anova
+5. Chi2
+6. Fisher
 
 ## Regressions
-### Linear models
-### Other models
+**Contents:**
+1. Linear models
+2. Other models
+3. Exporting results
 
 ## Upcoming topics:
-
 * Joins
 * Association rule
 * Visualisations (rbase and ggplot2)
