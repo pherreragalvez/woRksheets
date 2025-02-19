@@ -57,24 +57,3 @@ Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-tes
 1. Linear models
 2. Other models
 3. Exporting results
-
-## Upcoming topics:
-* Joins
-* Association rule
-* Visualisations (rbase and ggplot2)
-  * https://r-coder.com/grafico-correlacion-r/
-* Markdown
-* Shiny
-* Online data sources
-  * Potential sources:
-    * WDI World Bank:
-      * https://cran.r-project.org/web/packages/WDI/WDI.pdf
-      * https://github.com/vincentarelbundock/WDI?tab=readme-ov-file
-    * Consulta chat GPT
-      * https://chatgpt.com/c/678d8e67-0024-8000-8984-00daf32ee630
-  * Macroeconomic indicators
-  * Demographic and social indicators
-  * Environment indicators
-  * Currencies and stock prices
-* Web scrapping
-* Geographic data, maps and other visualisations
