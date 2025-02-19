@@ -30,8 +30,8 @@
 
 ## Data bases I have not worked with
 
-* Encuesta Nacional de Migración (National Migration Survey).
-* ENE (National Employment Survey).
+* Encuesta Nacional de Migración (National Migration Survey - Chile).
+* ENE (National Employment Survey - Chile).
 
 ## Look databases for
 
