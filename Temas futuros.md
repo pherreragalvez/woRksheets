@@ -22,13 +22,13 @@
 * Web scrapping
 * Geographic data, maps and other visualisations
 
-## Data bases with which I have worked with
+## Data bases I have worked with
 
 * Casen (National Survey of Socioeconomic Characterization - Chile).
 * ENUT (National Survey on Time Use - Chile).
 * EBS (Social welfare survey - Chile).
 
-## Data bases that I have not worked with
+## Data bases I have not worked with
 
 * Encuesta Nacional de Migración (National Migration Survey).
 * ENE (National Employment Survey).
