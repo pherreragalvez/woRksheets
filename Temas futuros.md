@@ -4,6 +4,7 @@
 
 * Joins
 * Association rule
+* Text mining
 * Visualisations (rbase and ggplot2)
   * https://r-coder.com/grafico-correlacion-r/
 * Markdown
