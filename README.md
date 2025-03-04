@@ -6,14 +6,12 @@ file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%203/S
 file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%204/Sesi%C3%B3n%204%20-%20Clase%202%20de%20R%20(html).html
 file:///C:/00%20Pablo/00%20Universidad%20de%20los%20Lagos/Clases%20R/Clase%205/Sesi%C3%B3n%205%20-%20Clase%203%20de%20R%20(html).html
 
-## 1. Basic operations
+## <a href="https://rpubs.com/pherreragalvez/1280307" target="_blank">1. Data structures</a>
 **Contents:**
 1. Vectors
 2. Vectors to data frames
 3. Matrixes
 4. Matrixes to data frames
-5. Loops
-6. Functions
 
 ## <a href="https://rpubs.com/pherreragalvez/1271494" target="_blank">2. Importing/exporting data bases</a>
 **Contents:**
@@ -57,3 +55,10 @@ Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-tes
 1. Linear models
 2. Other models
 3. Exporting results
+
+## 7. Core programming basics
+**Contents:**
+1. Loops
+2. Functions
+
+
