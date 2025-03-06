@@ -48,9 +48,10 @@ Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-tes
 
 ## <a href="https://rpubs.com/pherreragalvez/1280822" target="_blank">6. Regressions</a>
 **Contents:**
-1. Linear models
-2. Other models
-3. Exporting results
+1. Visual inspection
+2. Linear models
+3. Logit and probit models
+4. Exporting results
 
 ## 7. Core programming basics
 **Contents:**
