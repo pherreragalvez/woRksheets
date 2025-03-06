@@ -46,7 +46,7 @@ Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-tes
 5. Chi2
 6. Fisher
 
-## 6. Regressions
+## <a href="https://rpubs.com/pherreragalvez/1280822" target="_blank">6. Regressions</a>
 **Contents:**
 1. Linear models
 2. Other models
