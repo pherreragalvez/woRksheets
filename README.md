@@ -31,8 +31,9 @@
 ## 4. Descriptive Statistics
 **Contents:**
 1. Creating tables
-* Frequency tables
-* Descriptive statistics
+
+   1.1. Frequency tables
+   1.2. Descriptive statistics
 2. Exporting tables
 
 ## 5. Statistic Tests
@@ -43,6 +44,7 @@
 4. Anova
 5. Chi2
 6. Fisher
+
 Notes:
 * sample(x, size, replace = FALSE, prob = NULL)
 * Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-test-in-r-calculation-and-reporting/
