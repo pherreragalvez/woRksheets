@@ -38,13 +38,14 @@
 ## 5. Statistic Tests
 **Contents:**
 1. Random sampling
-* sample(x, size, replace = FALSE, prob = NULL)
 2. Normality
 3. T tests
-Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-test-in-r-calculation-and-reporting/
 4. Anova
 5. Chi2
 6. Fisher
+Notes:
+* sample(x, size, replace = FALSE, prob = NULL)
+* Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-test-in-r-calculation-and-reporting/
 
 ## <a href="https://rpubs.com/pherreragalvez/1280822" target="_blank">6. Regressions</a>
 **Contents:**
