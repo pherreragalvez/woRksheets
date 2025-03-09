@@ -44,7 +44,7 @@
 5. Chi2
 6. Fisher
 
-Notes:
+**Notes:**
 * sample(x, size, replace = FALSE, prob = NULL)
 * Pontentially useful link: https://www.datanovia.com/en/lessons/how-to-do-a-t-test-in-r-calculation-and-reporting/
 
