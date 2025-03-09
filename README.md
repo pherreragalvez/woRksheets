@@ -19,21 +19,20 @@
 ## 3. Data manipulation
 **Contents:**
 1. Dplyr
-* rename
-* distinct
-* arrange
-* select
-* filter
-* mutate
+   1. rename
+   2. distinct
+   3. arrange
+   4. select
+   5. filter
+   6. mutate
 2. ifelse (no dplyr)
 3. Dates
 
 ## 4. Descriptive Statistics
 **Contents:**
 1. Creating tables
-
-   1.1. Frequency tables
-   1.2. Descriptive statistics
+   1. Frequency tables
+   2. Descriptive statistics
 2. Exporting tables
 
 ## 5. Statistic Tests
